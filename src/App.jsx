@@ -1,5 +1,4 @@
-import Header from './components/Header'
-import './App.css'
+import { Header } from './components/molecules/Header'
 
 function App() {
 
